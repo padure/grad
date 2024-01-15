@@ -1,9 +1,9 @@
 # Asistență pentru programarea client-side
 
-| # Day |                                                                       Topics                                                                        |
+| # Nr  |                                                                        Teme                                                                         |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                                                             [Introducere](./readMe.md)                                                             |
-| 02    |                                               [Data Types](./02_Day_Data_types/02_day_data_types.md)                                                |
+| 01    |                                                             [Introducere](./readMe.md)                                                              |
+| 02    |                              [Instrucțiunile limbajului de scriptare](./02_Day_Data_types/02_day_data_types.md)                                     |
 | 03    |                             [Booleans, Operators, Date](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                             |
 | 04    |                                            [Conditionals](./04_Day_Conditionals/04_day_conditionals.md)                                             |
 | 05    |                                                     [Arrays](./05_Day_Arrays/05_day_arrays.md)                                                      |
