@@ -1,4 +1,4 @@
-# Asistență pentru programarea client-side a site-urilor Web
+# Asistență pentru programarea client-side
 
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
