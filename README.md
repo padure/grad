@@ -2,7 +2,7 @@
 
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                                                             [Introduction](./readMe.md)                                                             |
+| 01    |                                                             [Introducere](./readMe.md)                                                             |
 | 02    |                                               [Data Types](./02_Day_Data_types/02_day_data_types.md)                                                |
 | 03    |                             [Booleans, Operators, Date](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                             |
 | 04    |                                            [Conditionals](./04_Day_Conditionals/04_day_conditionals.md)                                             |
@@ -33,46 +33,23 @@
 | 29    |             [Mini Project: Animating characters](./29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)             |
 | 30    |                                     [Final Projects](./30_Day_Mini_project_final/30_day_mini_project_final.md)                                      |
 
-🧡🧡🧡 HAPPY CODING 🧡🧡🧡
-
-<div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
-</div>
-
 <div align="center">
-  <h1> 30 Days Of JavaScript: Introduction</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <h1> ”Asistență pentru programarea client-side a site-urilor Web</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/gheorghe-p%C4%83dure-530b08148/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
+<sub>Autor:
+<a href="https://www.linkedin.com/in/gheorghe-p%C4%83dure-530b08148/" target="_blank">Pădure Gheorghe</a><br>
+<small> Ianuarie, 2023</small>
 </sub>
 
-<div>
-
-🇬🇧 [English](./readMe.md)
-🇪🇸 [Spanish](./Spanish/readme.md)
-🇮🇹 [Italian](./Italian/readMe.md)
-🇷🇺 [Russian](./RU/README.md)
-🇹🇷 [Turkish](./Turkish/readMe.md)
-🇦🇿 [Azerbaijan](./Azerbaijani/readMe.md)
-🇰🇷 [Korean](./Korea/README.md)
-🇻🇳 [Vietnamese](./Vietnamese/README.md)
-🇵🇱 [Polish](./Polish/readMe.md)
-🇧🇷 [Portuguese](./Portuguese/readMe.md)
-
 </div>
 
 </div>
 </div>
 
-[Day 2 >>](./02_Day_Data_types/02_day_data_types.md)
+[Ziua 2 >>](./02_depanarea_programelor/02_depanarea_programelor.md)
 
 ![Thirty Days Of JavaScript](./images/day_1_1.png)
 
