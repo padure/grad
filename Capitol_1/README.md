@@ -28,7 +28,7 @@
 </div>
 </div>
 
-[Ziua 1 >>](./02_depanarea_programelor/02_depanarea_programelor.md)
+[Ziua 2 >>](./02_depanarea_programelor/02_depanarea_programelor.md)
 
 ![Thirty Days Of JavaScript](./images/day_1_1.png)
 
